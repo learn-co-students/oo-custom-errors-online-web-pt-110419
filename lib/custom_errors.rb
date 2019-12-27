@@ -15,6 +15,10 @@ class Person
   
   def 
 
+class PartnerError < StandardError
+  end
+
+
 end
 
 #beyonce = Person.new("Beyonce")
